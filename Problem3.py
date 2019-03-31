@@ -1,6 +1,6 @@
 # Problem 3########
-# Catherine A Celeste Quinlan ######
-# This program prints all numbers between 1,000 and 10,000 that are divisible by 6 but not 12.
+# Catherine A Celeste Quinlan. ######
+# This program prints all numbers between  1,000 and 10,000 that are divisible by 6 but not 12.
 # 16/03/19
 print('start here')                     # initial number used
 initialnumber = 1000                    # initial number used
