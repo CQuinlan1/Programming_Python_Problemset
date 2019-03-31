@@ -1,5 +1,5 @@
 # ******************************
-# Created by Catherine Ann celeste Quinlan
+# Created by Catherine Ann celeste Quinlan.
 # Programming Course
 # This program will output today's date and time in format ' Monday , January 10th at 1:15pm
 # Problem8 Date line 
