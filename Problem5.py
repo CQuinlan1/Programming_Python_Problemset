@@ -1,5 +1,5 @@
 # *****************************
-# Created by Catherine Ann Celeste Quinlan
+# Created by Catherine Ann Celeste Quinlan.
 # This program will take a positive integer and say if it is a prime number
 # QUESTION 5
 # ***********************
