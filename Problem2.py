@@ -1,6 +1,6 @@
 
  # *************************
- # Catherine Ann Celeste Quinlan
+ # Catherine Ann Celeste Quinlan.
 # Programming 2019 Data Analytics
 # This program asks the user whether or not today is a day that begins with the letter T.
 # Question 2
