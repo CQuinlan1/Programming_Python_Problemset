@@ -1,5 +1,5 @@
 # =================================
-# created by Celeste quinlan 13-Mar-2019
+# created by Celeste Quinlan.
 # Course XXXX
 # This program reads in a text ﬁle and outputs every second line. 
 # The program should take the ﬁlename from an argument on the command line.
