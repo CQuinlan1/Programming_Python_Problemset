@@ -1,5 +1,5 @@
 # *********************************
-# Created by Catherine A. Celeste Quinlan
+# Created by Catherine A. Celeste Quinlan.
 # For Programming Module Data Analytics 
 # This programme asks the user to input a number and totals the numbers up to it and outputs the total
 
