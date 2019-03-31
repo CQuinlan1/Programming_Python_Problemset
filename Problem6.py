@@ -1,5 +1,5 @@
 # ***********************
-#  Created by Catherine Ann Celeste Quinlan
+#  Created by Catherine Ann Celeste Quinlan.
 # This program takes a user input string and outputs every second word 
 # 30 March 2019 
 # Problem6
